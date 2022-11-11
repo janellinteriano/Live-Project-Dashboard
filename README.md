@@ -7,7 +7,7 @@
 </ul>
 <h2>Building the Basic App</h2>
 <p>My task for this story was to create a basic app with html/css to track a certain hobby or activity. I chose to create an app used to track and plan crochet project ideas. I created a base file for the whole application and styled all of the pages. This is a snippet of the home page and navbar html.</p>
-base file: (https://user-images.githubusercontent.com/111891542/201429812-41b0918c-8f1d-4b1a-a6dc-b1e154d84646.png)<br>
+base file: ![base](https://user-images.githubusercontent.com/111891542/201431481-61f3ab1d-c23d-4a18-8fd7-3a2641f16456.png))<br>
 homepage: (https://user-images.githubusercontent.com/111891542/201429824-f7ddf1aa-2350-4d12-9ac8-d51fadc10b6e.png)<br>
 navbar css: (https://user-images.githubusercontent.com/111891542/201430032-8378cab2-baf4-4f45-a1fe-759446fdf4c6.png)<br>
 navbar css: (https://user-images.githubusercontent.com/111891542/201430247-14d54786-b5ed-4e31-b09d-820fc54d8e26.png)<br>
