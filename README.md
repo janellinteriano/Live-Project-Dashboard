@@ -30,6 +30,6 @@ navbar css: (https://user-images.githubusercontent.com/111891542/201430795-e62e1
   <li>Learning from each other and keeping track of everyone's progress everyday</li>
   <li>Communicating our needs every week to increase productivity and improve project approach</li>
   <ul>
-    <li>Our team used Agile/Scrum methodology to develop our project. We took part in several different scrum events such as initial sprint planning, daily stand-ups, and code retrospectives each Friday. These events allowed our team to communicate our current struggles, progress updates, project questions, and positive feedback for the two weeks. It made our productivity as a team increase and made it easier to help those that needed extra attention on their user stories. It was valuable information and exoerience I will surely use in my career.</li>
+    <li>Our team used Agile/Scrum methodology to develop our project. We took part in several different scrum events such as initial sprint planning, daily stand-ups, and code retrospectives each Friday. These events allowed our team to communicate our current struggles, progress updates, project questions, and positive feedback for the two weeks. It made our productivity as a team increase and made it easier to help those that needed extra attention on their user stories. It was valuable information and experience I will surely use in my career.</li>
   </ul>
 </ul>
