@@ -7,8 +7,9 @@
 </ul>
 <h2>Building the Basic App</h2>
 <p>My task for this story was to create a basic app with html/css to track a certain hobby or activity. I chose to create an app used to track and plan crochet project ideas. I created a base file for the whole application and styled all of the pages. This is a snippet of the home page and navbar html.</p>
-base file: (https://user-images.githubusercontent.com/111891542/201431481-61f3ab1d-c23d-4a18-8fd7-3a2641f16456.png)<br>
+base file: (https://user-images.githubusercontent.com/111891542/201431481-61f3ab1d-c23d-4a18-8fd7-3a2641f16456.png)<br><br>
 homepage: (https://user-images.githubusercontent.com/111891542/201429824-f7ddf1aa-2350-4d12-9ac8-d51fadc10b6e.png)<br>
+(https://user-images.githubusercontent.com/111891542/201439107-3ca3dd3c-3df9-42ff-b7f0-3413895965bc.png)<br><br>
 navbar css: (https://user-images.githubusercontent.com/111891542/201430032-8378cab2-baf4-4f45-a1fe-759446fdf4c6.png)<br>
 navbar css: (https://user-images.githubusercontent.com/111891542/201430247-14d54786-b5ed-4e31-b09d-820fc54d8e26.png)<br>
 navbar css: (https://user-images.githubusercontent.com/111891542/201430679-5a289fee-ff4d-4937-bcc3-072472418097.png)<br>
@@ -20,10 +21,12 @@ navbar css: (https://user-images.githubusercontent.com/111891542/201430795-e62e1
 </ul>
 <h2>API</h2>
 <p>My task for this story was to render information queried from an API of my choosing. I chose an API that would show the user sunrise and sunset times each day for Atlanta, Georgia. I created a function that would parse through the JSON file returned and that would display the times I wanted for the location.</p>
-(https://user-images.githubusercontent.com/111891542/201426414-0b5c9684-3aae-4737-9726-44e39f099706.png)
+(https://user-images.githubusercontent.com/111891542/201426414-0b5c9684-3aae-4737-9726-44e39f099706.png)<br>
+(https://user-images.githubusercontent.com/111891542/201439233-877b018e-cb03-4649-b023-38e30de5b86d.png)<br><br>
 <h2>Beautiful Soup</h2>
 <p>This story was about webscraping and my task was to find information I wanted sourced from another website. I then made a function to parse through the html file and grab the data element I wanted. This allowed me to only display a paragraph I felt was relevant for my app.</p>
-(https://user-images.githubusercontent.com/111891542/201426737-0944019b-fb09-4610-8bc3-58f1bd78db56.png)
+(https://user-images.githubusercontent.com/111891542/201426737-0944019b-fb09-4610-8bc3-58f1bd78db56.png)<br>
+(https://user-images.githubusercontent.com/111891542/201439268-68bd2bfd-0fa1-40ae-9805-5f7a33bac03b.png)<br><br>
 <h2>Other Skills Learned</h2>
 <ul>
   <li>Working with a group of other developers to achieve project goals</li>
